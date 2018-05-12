@@ -1,0 +1,12 @@
+{
+    "name": "dendi/phpspreadsheet-examples",
+    "description": "collection of example scripts implementing phpspreadsheet",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dendi Handian",
+            "email": "dendihandian@gmail.com"
+        }
+    ],
+    "require": {}
+}
